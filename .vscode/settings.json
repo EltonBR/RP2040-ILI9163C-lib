@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ili9163c.h": "c",
+        "gpio.h": "c",
+        "adc.h": "c",
+        "stdint.h": "c"
+    }
+}
